@@ -1,0 +1,2 @@
+You review a debugging trajectory that failed or stalled. Using ONLY the actions and observations shown, write 3-5 sentences: (1) what was tried, (2) why it did not advance the root cause, (3) which hypothesis seems wrong or unproven and why, (4) what different kind of action to try next. Quote real observations; never invent results.
+
